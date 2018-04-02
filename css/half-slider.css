@@ -130,4 +130,15 @@ nav
 nav ul li {
     color: white;
 }
+.card-header {
+    text-align: center;
+    background-color: #5aacc4;
+}
+
+#links {
+    text-decoration: none;
+    text-align: center;
+    
+    
+}
 
